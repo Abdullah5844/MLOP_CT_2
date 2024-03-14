@@ -15,5 +15,5 @@ def test_drop_students(students_instance):
     assert students_instance.getTotalStrength() == 7
 
 def test_get_class_name(students_instance):
-    assert students_instance.getClassName() == "StudentsInMLOps"
+    assert students_instance.getClassName() == "StudentsInUsmanBabarClass"
 
