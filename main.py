@@ -12,5 +12,5 @@ class StudentsInMLOps:
         return self.total_students
 
     def getClassName(self):
-        return "StudentsInMLOps"
+        return "StudentsInUsmanBabarClass"
 
